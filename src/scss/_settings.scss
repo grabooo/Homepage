@@ -1,0 +1,17 @@
+
+
+$text-color-white: white;
+$text-color-black: black;
+
+$hel: 'hel', sans-serif;
+
+@font-face {
+    font-family: 'hel';
+    src: url('HelveticaNeue-Medium') format('opentype');
+    font-weight: bold;
+}
+
+
+$Helvetica: "HelveticaNeue";
+
+$pagination-color: rgb(255, 255, 255);
